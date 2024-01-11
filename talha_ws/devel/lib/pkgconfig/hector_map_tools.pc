@@ -1,0 +1,8 @@
+prefix=/home/dex2132/hector_ws/devel
+
+Name: hector_map_tools
+Description: Description of hector_map_tools
+Version: 0.3.5
+Cflags: -I/home/dex2132/hector_ws/src/RPLidar_Hector_SLAM/hector_slam/hector_map_tools/include
+Libs: -L/home/dex2132/hector_ws/devel/lib 
+Requires: nav_msgs
